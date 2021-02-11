@@ -1,6 +1,6 @@
 Java Source codes for Wi-Fi Calling Extension (to be released)
-Price | Free
-Decompiling | Not Allowed
+ - Price | Free
+ - Decompiling | Not Allowed
 
 This extension works on all MIT App Inventor Offsprings expect ThunkableX
 
